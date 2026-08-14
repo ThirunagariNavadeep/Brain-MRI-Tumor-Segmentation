@@ -14,7 +14,7 @@ DEVICE = torch.device(
 )
 
 MODEL_REPO = "Navadeep018/brain-mri-tumor-segmentation"
-MODEL_FILENAME = "best_unet.pth"
+MODEL_FILENAME = "models/best_unet.pth"
 THRESHOLD = 0.3
 
 
